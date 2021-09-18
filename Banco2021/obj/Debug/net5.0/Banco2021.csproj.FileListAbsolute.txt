@@ -1,0 +1,16 @@
+C:\Users\IVAN CASTRO\source\repos\Banco2021\Banco2021\bin\Debug\net5.0\Banco2021.exe
+C:\Users\IVAN CASTRO\source\repos\Banco2021\Banco2021\bin\Debug\net5.0\Banco2021.deps.json
+C:\Users\IVAN CASTRO\source\repos\Banco2021\Banco2021\bin\Debug\net5.0\Banco2021.runtimeconfig.json
+C:\Users\IVAN CASTRO\source\repos\Banco2021\Banco2021\bin\Debug\net5.0\Banco2021.runtimeconfig.dev.json
+C:\Users\IVAN CASTRO\source\repos\Banco2021\Banco2021\bin\Debug\net5.0\Banco2021.dll
+C:\Users\IVAN CASTRO\source\repos\Banco2021\Banco2021\bin\Debug\net5.0\ref\Banco2021.dll
+C:\Users\IVAN CASTRO\source\repos\Banco2021\Banco2021\bin\Debug\net5.0\Banco2021.pdb
+C:\Users\IVAN CASTRO\source\repos\Banco2021\Banco2021\obj\Debug\net5.0\Banco2021.csproj.AssemblyReference.cache
+C:\Users\IVAN CASTRO\source\repos\Banco2021\Banco2021\obj\Debug\net5.0\Banco2021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVAN CASTRO\source\repos\Banco2021\Banco2021\obj\Debug\net5.0\Banco2021.AssemblyInfoInputs.cache
+C:\Users\IVAN CASTRO\source\repos\Banco2021\Banco2021\obj\Debug\net5.0\Banco2021.AssemblyInfo.cs
+C:\Users\IVAN CASTRO\source\repos\Banco2021\Banco2021\obj\Debug\net5.0\Banco2021.csproj.CoreCompileInputs.cache
+C:\Users\IVAN CASTRO\source\repos\Banco2021\Banco2021\obj\Debug\net5.0\Banco2021.dll
+C:\Users\IVAN CASTRO\source\repos\Banco2021\Banco2021\obj\Debug\net5.0\ref\Banco2021.dll
+C:\Users\IVAN CASTRO\source\repos\Banco2021\Banco2021\obj\Debug\net5.0\Banco2021.pdb
+C:\Users\IVAN CASTRO\source\repos\Banco2021\Banco2021\obj\Debug\net5.0\Banco2021.genruntimeconfig.cache
